@@ -4,7 +4,7 @@ Neighbor Explorer is a country information app that lets users input the name of
 
 The primary aim of this project was to practice working with REST APIs, managing asynchronous fetch requests, and displaying nested dynamic content (like neighbors of neighbors). It also helped reinforce UI rendering based on conditional data availability.
 
-🔗👉 click here to see the live demo--> https://nanthakumar-m.github.io/bmi_converter-react/
+🔗👉 click here to see the live demo--> https://nanthakumar-m.github.io/neighbor_explorer-javascript/
   
   🚫 Note: This website is not responsive and is best viewed on desktop screens.
   
