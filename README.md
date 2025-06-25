@@ -36,7 +36,7 @@ The primary aim of this project was to practice working with REST APIs, managing
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/c04dbfdc-aa21-4aa5-967b-6be5af778b1a)
+![image](https://github.com/user-attachments/assets/87b12c72-f26d-47d8-ae66-47def358168a)
 
 ![image](https://github.com/user-attachments/assets/81577cac-8748-4856-a997-413aba5fb67c)
 
